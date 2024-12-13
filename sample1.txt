@@ -1,0 +1,4 @@
+1,emp101,Bill,Gates,Software Engineer,ONBOARD,01-01-2022,01-01-2022,"ONboarding"
+2,emp102,Steve,Jobs,Architect,ONBOARD,01-02-2022,01-02-2022,"ONboarding"
+3,emp101,SALARY,3000,01-01-2022,"Salary"
+4,emp102,SALARY,4000,01-02-2022,"Salary"
